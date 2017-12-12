@@ -41,4 +41,8 @@ Thumbs.db
 # dir ignore #
 #####################
 target
+<<<<<<< HEAD
+=======
+.idea
+>>>>>>> 88462552e9ddee7d49d31858cb6fcd3cb71df168
 .idea/*.xml
